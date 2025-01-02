@@ -5,3 +5,5 @@ google_analytics:
 theme: jekyll-theme-cayman
 github:
   darwin_app_url: https://github.com/idroz/mezmer-app/releases/download/latest/Mezmer_Darwin_arm64.zip
+  win64_app_url: https://github.com/idroz/mezmer-app/releases/download/latest/Mezmer_Win_x64.exe
+  win32_app_url: https://github.com/idroz/mezmer-app/releases/download/latest/Mezmer_Win_x32.exe
