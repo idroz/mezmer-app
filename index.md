@@ -1,6 +1,6 @@
 # Mezmer
 
-If you enjoy using Mezmer, consider [buying me a coffee](https://ko-fi.com/iad_draws) - it's greatly appreciated!
+If you enjoy using Mezmer, consider [buying me a coffee](https://ko-fi.com/iad_draws) or [supporting me on Patreon](patreon.com/IadDraws)- it's greatly appreciated!
 
 ## Immersive Real-Time OP-XY/Z Audio Visualization App
 
@@ -14,8 +14,9 @@ Mezmer is a real-time audio visualization application designed to bring your OP-
 - [x] Live streaming of audio signal for visualisation
 - [x] OP-Z integration
 - [x] OP-XY integration
-- [x] Audomatic audio device detection
+- [x] Automatic audio device detection
 - [ ] Record live audio and video 
+- [ ] A variety of music visuals
 
 ## Demos
 * [Clarity](https://www.youtube.com/watch?v=h8vn7rmbdxk)
