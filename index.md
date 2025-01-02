@@ -9,6 +9,10 @@ Mezmer is a real-time audio visualization application designed to bring your OP-
 ## Screenshots
 ![Image](/assets/images/sn1.png)
 ![Image](/assets/images/sn2.png)
+![Image](/assets/images/sn3.png)
+![Image](/assets/images/sn4.png)
+![Image](/assets/images/sn5.png)
+![Image](/assets/images/sn6.png)
 
 ## Features
 - [x] Live streaming of audio signal for visualisation
