@@ -18,3 +18,6 @@ Mezmer is real-time audio visualization application designed to bring your OP so
 1. Download and launch the app
 2. Plug in your OP-XY via the USB-C connector to your Mac
 3. Watch as your sounds come to life in mesmerizing patterns and movements.
+
+## Troubleshooting
+Encountered issues or feature suggestions can be reported [here](https://github.com/idroz/mezmer-app/issues)
