@@ -32,6 +32,7 @@ Mezmer is a real-time audio visualization application designed to bring your OP-
 
 ## Controls
 * Space: toggles the Information Panel
+* Number keys: control visualisation types
 * Command + Q: Exits the application
 
 ## Troubleshooting
