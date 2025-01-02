@@ -1,6 +1,6 @@
 # Mezmer
 
-If you enjoy using Mezmer, consider [buying me a coffee](https://ko-fi.com/iad_draws) or [supporting me on Patreon](patreon.com/IadDraws)- it's greatly appreciated!
+If you enjoy using Mezmer, consider [buying me a coffee](https://ko-fi.com/iad_draws) or [supporting me on Patreon](https://patreon.com/IadDraws)- it's greatly appreciated!
 
 ## Immersive Real-Time OP-XY/Z Audio Visualization App
 
