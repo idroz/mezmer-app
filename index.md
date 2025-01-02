@@ -20,4 +20,4 @@ Mezmer is a real-time audio visualization application designed to bring your OP 
 3. Watch as your sounds come to life in mesmerizing patterns and movements.
 
 ## Troubleshooting
-Encountered issues or feature suggestions can be reported [here](https://github.com/idroz/mezmer-app/issues)
+Encountered issues or feature suggestions can be reported [here](https://github.com/idroz/mezmer-app/issues).
